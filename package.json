@@ -1,0 +1,14 @@
+{
+  "name": "legacy-random-ua",
+  "version": "1.0.0",
+  "description": "Generate random legacy user-agent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "border-radius",
+  "license": "Public Domain",
+  "dependencies": {
+    "lodash": "^3.7.0"
+  }
+}
