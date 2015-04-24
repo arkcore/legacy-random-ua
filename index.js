@@ -208,7 +208,6 @@ module.exports = function () {
     'Opera/7.60 (Windows NT 5.2; U) [en] (IBM EVV/3.0/EAK01AG9/LE)',
     'Opera/7.54 (Windows NT 5.1; U) [pl]',
     'Opera/7.50 (X11; Linux i686; U) [en]',
-    'Mozilla/5.0 (X11; Linux i686; U) Opera 7.50 [en]',
     'Mozilla/4.0 (compatible; MSIE 6.0; X11; Linux i686) Opera 7.20 [en]',
     'Opera/7.11 (Windows NT 5.1; U) [en]',
     'Mozilla/4.0 (compatible; MSIE 6.0; Windows ME) Opera 7.11 [en]',
